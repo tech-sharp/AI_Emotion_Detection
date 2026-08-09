@@ -89,4 +89,4 @@ Ekman and Friesen identified six basic emotions based on studying the isolated c
 - Fear
 - Happiness
 - Sadness
-- Surprise
+- Surprise
